@@ -155,6 +155,6 @@ def interface():
             print("Opção inválida. Tente novamente.")
 
 
-# Chama a interface para rodar o código
+
 if __name__ == "__main__":
     interface()
